@@ -2,12 +2,13 @@
 
 This is the SentinelOne app for Phantom.
 
-On January 8th, 2018, it is going through the certification process with Phantom.
+This version was submitted to Phantom for certification week of Jan 2nd, 2018.
 
-The Product Manager contact at Phantom who is familiar with this app, and had previously reviewed it, is Matt Tichenor.
+The key to using Phantom is to download and install the OVA (Open Virtualization Appliance) provided.
+Registration and download from Phantom is available without fees.
 
-```
-Matt Tichenor
-matt.tichenor@phantom.us
-205-612-0271
-```
+[Phantom OVA Download](https://www.phantom.us/download/)
+
+This S1 App was developed by following the instructions in the app dev tutorial.
+
+[Phantom Application Developer Guide Tutorial](https://my.phantom.us/3.0/docs/appdev/tutorial)
